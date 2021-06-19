@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=padre
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ padre\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=ense\u00F1anzaHijos
+comment1.target=padre(java.lang.String)
+comment2.params=ense\u00F1oMatematicas
+comment2.target=java.lang.String\ ense\u00F1oMatematicas(java.lang.String)
+comment3.params=
+comment3.target=void\ corrijoHijos()
+comment4.params=monto
+comment4.target=boolean\ ayudoConDinero(int)
+numComments=5
